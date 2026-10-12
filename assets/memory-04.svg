@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 650">
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#e7d7c8"/><stop offset="1" stop-color="#d5ded4"/></linearGradient>
+    <linearGradient id="light" x2="0" y2="1"><stop stop-color="#f8ebce"/><stop offset="1" stop-color="#e9c995"/></linearGradient>
+  </defs>
+  <rect width="600" height="650" fill="url(#bg)"/>
+  <path d="M0 302 300 107l300 195v31H0Z" fill="#a67d61"/>
+  <path d="M50 305h500v268H50Z" fill="#ede2cf"/>
+  <path d="M89 345h176v144H89Zm246 0h176v144H335Z" fill="url(#light)" stroke="#ad9277" stroke-width="10"/>
+  <path d="M0 522q141-45 300 0t300 0v78H0Z" fill="#899582"/>
+  <path d="M0 568h600v32H0Z" fill="#758475"/>
+  <g fill="#fffaf0" opacity=".8"><circle cx="106" cy="117" r="4"/><circle cx="491" cy="141" r="5"/><circle cx="399" cy="243" r="3"/></g>
+  <rect x="24" y="566" width="552" height="60" rx="8" fill="#fffaf0" opacity=".9"/>
+  <text x="300" y="593" text-anchor="middle" fill="#58544c" font-family="sans-serif" font-size="19" letter-spacing="3">YOUR FAVORITE MOMENT</text>
+  <text x="300" y="615" text-anchor="middle" fill="#8a8176" font-family="sans-serif" font-size="12" letter-spacing="2">REPLACE THIS LOCAL PLACEHOLDER</text>
+</svg>

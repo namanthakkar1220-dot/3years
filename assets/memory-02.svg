@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 650">
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#e9dfe9"/><stop offset="1" stop-color="#edcdb8"/></linearGradient>
+    <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#f7e8d1"/><stop offset="1" stop-color="#e6cbb7"/></linearGradient>
+  </defs>
+  <rect width="600" height="650" fill="url(#bg)"/>
+  <circle cx="300" cy="278" r="186" fill="url(#sky)" opacity=".86"/>
+  <path d="M0 417q154-82 300 0t300 0v175H0Z" fill="#9aa38d"/>
+  <path d="M0 483q165-65 300 0t300 0v104H0Z" fill="#808f7b"/>
+  <path d="M50 0h30v470H50Zm474 0h30v470h-30Z" fill="#a8957e" opacity=".72"/>
+  <path d="M0 38h600v20H0Zm0 370h600v20H0Z" fill="#a8957e" opacity=".62"/>
+  <g fill="#f5efe5" opacity=".75"><circle cx="156" cy="155" r="5"/><circle cx="428" cy="143" r="4"/><circle cx="194" cy="342" r="3"/><circle cx="454" cy="328" r="5"/></g>
+  <rect x="24" y="566" width="552" height="60" rx="8" fill="#fffaf0" opacity=".88"/>
+  <text x="300" y="593" text-anchor="middle" fill="#58544c" font-family="sans-serif" font-size="19" letter-spacing="3">YOUR MEMORY HERE</text>
+  <text x="300" y="615" text-anchor="middle" fill="#8a8176" font-family="sans-serif" font-size="12" letter-spacing="2">REPLACE THIS LOCAL PLACEHOLDER</text>
+</svg>

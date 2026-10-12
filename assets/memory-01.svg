@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 650">
+  <defs>
+    <linearGradient id="bg" x2="0" y2="1"><stop stop-color="#e9ded0"/><stop offset="1" stop-color="#c7d0bd"/></linearGradient>
+    <linearGradient id="sun" x2="0" y2="1"><stop stop-color="#f6dda1"/><stop offset="1" stop-color="#e9bd77"/></linearGradient>
+  </defs>
+  <rect width="600" height="650" fill="url(#bg)"/>
+  <circle cx="430" cy="147" r="75" fill="url(#sun)" opacity=".92"/>
+  <path d="M0 428 134 306l105 101 119-146 242 210v179H0Z" fill="#8d9b83"/>
+  <path d="M0 493 148 376l104 96 121-106 227 177v107H0Z" fill="#738575"/>
+  <path d="M213 650V436h175v214" fill="#f1e7d8"/>
+  <path d="M236 650V470h129v180" fill="#c89e7d"/>
+  <path d="M270 533h62v117h-62Z" fill="#748777"/>
+  <g fill="#f8f1e7" opacity=".82"><circle cx="102" cy="123" r="4"/><circle cx="182" cy="183" r="3"/><circle cx="508" cy="260" r="4"/><circle cx="74" cy="285" r="3"/></g>
+  <rect x="24" y="566" width="552" height="60" rx="8" fill="#fffaf0" opacity=".86"/>
+  <text x="300" y="593" text-anchor="middle" fill="#58544c" font-family="sans-serif" font-size="19" letter-spacing="3">YOUR COLLEGE PHOTO</text>
+  <text x="300" y="615" text-anchor="middle" fill="#8a8176" font-family="sans-serif" font-size="12" letter-spacing="2">REPLACE THIS LOCAL PLACEHOLDER</text>
+</svg>
